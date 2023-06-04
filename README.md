@@ -6,7 +6,7 @@ Date : 04-06-2023
 Screenshots :
 
 
-<img src="Screenshots/page1.png" alt="alt text" width="270" height="570"> <img src="Screenshots/page2.png" alt="alt text" width="270" height="570"> <img src="Screenshots/page3.png" alt="alt text" width="270" height="570">
+<img src="Screenshots/page1.png" alt="alt text" width="270" height="570">    <img src="Screenshots/page2.png" alt="alt text" width="270" height="570">    <img src="Screenshots/page3.png" alt="alt text" width="270" height="570">
 
 
-<img src="Screenshots/p1d1.png" alt="alt text" width="270" height="570"> <img src="Screenshots/p2d2.png" alt="alt text" width="270" height="570"> <img src="Screenshots/p3d3.png" alt="alt text" width="270" height="570">
+<img src="Screenshots/p1d1.png" alt="alt text" width="270" height="570">    <img src="Screenshots/p2d2.png" alt="alt text" width="270" height="570">    <img src="Screenshots/p3d3.png" alt="alt text" width="270" height="570">
